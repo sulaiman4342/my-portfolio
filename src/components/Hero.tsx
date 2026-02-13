@@ -47,7 +47,7 @@ const Hero = () => {
           className="text-lg text-gray-400 mb-12 max-w-2xl mx-auto"
         >
           I build exceptional digital experiences that combine beautiful design with powerful functionality.
-          Passionate about creating solutions that make a difference.
+          Passionate about creating scalable backend and frontend solutions.
         </motion.p>
 
         <motion.div
